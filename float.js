@@ -1,8 +1,13 @@
-/*==============================
-| Float.js BETA
-| Created By: Zachary Branson
-| Date: Thu Sept 14 2017
-==============================*/
+/*
+|--------------------------------------------------------------------------
+| FLOAT JS
+|--------------------------------------------------------------------------
+|
+| Created by: Zachary Branson
+| Date Created: 9/14/2017
+| GitHub Repo: https://github.com/zac1127/FloatJS
+|
+*/
 
 
 $( document ).ready(function() {
